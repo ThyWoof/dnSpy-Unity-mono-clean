@@ -19,7 +19,7 @@
 
 namespace UnityMonoDllSourceCodePatcher {
 	static class Constants {
-		public const string DnSpyUnityRepo_master_Branch = "master";
+		public const string DnSpyUnityRepo_master_Branch = "main";
 		public const string DnSpyUnityRepo_dnSpy_Branch = "dnSpy";
 		public const string UnityVersionPrefix = "unity-";
 		public const string ReadMeFilename = "README.md";
