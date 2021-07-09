@@ -1,0 +1,13 @@
+C:\Users\paulo\Repos\dnSpy-Unity-mono-clean\src\umpatcher\umpatcher\bin\Debug\netcoreapp3.0\umpatcher.exe
+C:\Users\paulo\Repos\dnSpy-Unity-mono-clean\src\umpatcher\umpatcher\bin\Debug\netcoreapp3.0\umpatcher.deps.json
+C:\Users\paulo\Repos\dnSpy-Unity-mono-clean\src\umpatcher\umpatcher\bin\Debug\netcoreapp3.0\umpatcher.runtimeconfig.json
+C:\Users\paulo\Repos\dnSpy-Unity-mono-clean\src\umpatcher\umpatcher\bin\Debug\netcoreapp3.0\umpatcher.runtimeconfig.dev.json
+C:\Users\paulo\Repos\dnSpy-Unity-mono-clean\src\umpatcher\umpatcher\bin\Debug\netcoreapp3.0\umpatcher.dll
+C:\Users\paulo\Repos\dnSpy-Unity-mono-clean\src\umpatcher\umpatcher\bin\Debug\netcoreapp3.0\umpatcher.pdb
+C:\Users\paulo\Repos\dnSpy-Unity-mono-clean\src\umpatcher\umpatcher\obj\Debug\netcoreapp3.0\umpatcher.csprojAssemblyReference.cache
+C:\Users\paulo\Repos\dnSpy-Unity-mono-clean\src\umpatcher\umpatcher\obj\Debug\netcoreapp3.0\umpatcher.AssemblyInfoInputs.cache
+C:\Users\paulo\Repos\dnSpy-Unity-mono-clean\src\umpatcher\umpatcher\obj\Debug\netcoreapp3.0\umpatcher.AssemblyInfo.cs
+C:\Users\paulo\Repos\dnSpy-Unity-mono-clean\src\umpatcher\umpatcher\obj\Debug\netcoreapp3.0\umpatcher.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Repos\dnSpy-Unity-mono-clean\src\umpatcher\umpatcher\obj\Debug\netcoreapp3.0\umpatcher.dll
+C:\Users\paulo\Repos\dnSpy-Unity-mono-clean\src\umpatcher\umpatcher\obj\Debug\netcoreapp3.0\umpatcher.pdb
+C:\Users\paulo\Repos\dnSpy-Unity-mono-clean\src\umpatcher\umpatcher\obj\Debug\netcoreapp3.0\umpatcher.genruntimeconfig.cache
